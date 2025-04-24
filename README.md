@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @robloxian222
 - 👀 I’m interested in Front-End Developement
-- 🌱 I’m currently learning about JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about Front-End
 - 📫 How to reach me you can contact me on thew7767@gmail.com
 - 😄 Pronouns: guy/dude
 - ⚡ Fun fact: i can easily forget, very slow learner
