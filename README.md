@@ -4,6 +4,7 @@
 - 📫 How to reach me you can contact me on thew7767@gmail.com
 - 😄 Pronouns: guy/dude
 - ⚡ Fun fact: i can easily forget, very slow learner
+- abandoned account for now, currently cooking a new one
 
 <!---
 robloxian222/robloxian222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
